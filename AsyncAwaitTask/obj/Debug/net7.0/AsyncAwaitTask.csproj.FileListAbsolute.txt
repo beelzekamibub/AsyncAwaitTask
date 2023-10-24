@@ -1,0 +1,14 @@
+C:\Users\chait\source\repos\AsyncAwaitTask\AsyncAwaitTask\bin\Debug\net7.0\AsyncAwaitTask.exe
+C:\Users\chait\source\repos\AsyncAwaitTask\AsyncAwaitTask\bin\Debug\net7.0\AsyncAwaitTask.deps.json
+C:\Users\chait\source\repos\AsyncAwaitTask\AsyncAwaitTask\bin\Debug\net7.0\AsyncAwaitTask.runtimeconfig.json
+C:\Users\chait\source\repos\AsyncAwaitTask\AsyncAwaitTask\bin\Debug\net7.0\AsyncAwaitTask.dll
+C:\Users\chait\source\repos\AsyncAwaitTask\AsyncAwaitTask\bin\Debug\net7.0\AsyncAwaitTask.pdb
+C:\Users\chait\source\repos\AsyncAwaitTask\AsyncAwaitTask\obj\Debug\net7.0\AsyncAwaitTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chait\source\repos\AsyncAwaitTask\AsyncAwaitTask\obj\Debug\net7.0\AsyncAwaitTask.AssemblyInfoInputs.cache
+C:\Users\chait\source\repos\AsyncAwaitTask\AsyncAwaitTask\obj\Debug\net7.0\AsyncAwaitTask.AssemblyInfo.cs
+C:\Users\chait\source\repos\AsyncAwaitTask\AsyncAwaitTask\obj\Debug\net7.0\AsyncAwaitTask.csproj.CoreCompileInputs.cache
+C:\Users\chait\source\repos\AsyncAwaitTask\AsyncAwaitTask\obj\Debug\net7.0\AsyncAwaitTask.dll
+C:\Users\chait\source\repos\AsyncAwaitTask\AsyncAwaitTask\obj\Debug\net7.0\refint\AsyncAwaitTask.dll
+C:\Users\chait\source\repos\AsyncAwaitTask\AsyncAwaitTask\obj\Debug\net7.0\AsyncAwaitTask.pdb
+C:\Users\chait\source\repos\AsyncAwaitTask\AsyncAwaitTask\obj\Debug\net7.0\AsyncAwaitTask.genruntimeconfig.cache
+C:\Users\chait\source\repos\AsyncAwaitTask\AsyncAwaitTask\obj\Debug\net7.0\ref\AsyncAwaitTask.dll
